@@ -3,4 +3,4 @@ This is a fully functional backend API for Todolist, which includes all the CRUD
 
 To run and use this code, first clone this repository into your local device.
 # Requirements
--> Download all the requirements, run this command in terminal: ''' pip install -r requirements.txt '''
+-> Download all the requirements, run this command in terminal: `pip install -r requirements.txt`
